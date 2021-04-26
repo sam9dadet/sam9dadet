@@ -1,7 +1,7 @@
 - 👋 Hi, I’m arian
 - 👀 I’m interested in Hardware & Security.
 - 🌱 I’m currently learning Offensive Security & IoT.
-- 💞️ I’m looking to collaborate on Independent Projects.
+-  I’m looking to collaborate on Independent Projects.
 - 📫 How to reach me sam9dadet@hotmail.com.
 
 <!---
